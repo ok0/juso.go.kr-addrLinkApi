@@ -1,7 +1,7 @@
 /**
- * @author jonghun Yoon(https://github.com/ok0/javascript-pagination)
+ * @author jonghun Yoon(https://github.com/ok0/juso.go.kr-addrLinkApi)
  */
-class AddrSearch extends CI_Controller {
+class AddrSearch {
 	
 	private $_apiKey = NULL;
 	private $_countPerPage = NULL;
