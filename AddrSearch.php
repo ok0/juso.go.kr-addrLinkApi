@@ -1,3 +1,4 @@
+<?php
 /**
  * @author jonghun Yoon(https://github.com/ok0/juso.go.kr-addrLinkApi)
  */
@@ -163,3 +164,4 @@ class AddrSearch {
 		}
 	}
 }
+?>
